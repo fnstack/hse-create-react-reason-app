@@ -5,7 +5,7 @@ const compression = require('compression');
 
 /*eslint-disable no-console */
 
-const port = 3000;
+const port = 3003;
 const app = express();
 
 app.use(compression());
