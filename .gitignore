@@ -429,3 +429,5 @@ __pycache__/
 .merlin
 .bsb.lock
 /lib/bs/
+
+.vscode/settings.json
